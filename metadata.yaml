@@ -1,5 +1,5 @@
 _repo: Art_59799
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Gsell, Paul
@@ -11,6 +11,9 @@ contributor:
     agent_name: Fedden, Mrs. Romilly
     gutenberg_agent_id: '50635'
     url: http://www.gutenberg.org/2009/agents/50635
+covers:
+- cover_type: archival
+  image_path: 59799-h/images/cover.jpg
 creator:
   author:
     agent_name: Rodin, Auguste
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '45965'
     url: http://www.gutenberg.org/2009/agents/45965
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59799#Art
 gutenberg_issued: '2019-06-24'
 gutenberg_type: Text
 identifiers:
